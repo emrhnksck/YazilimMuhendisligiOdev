@@ -4,4 +4,7 @@ public class topla {
         return a + b;
     }
 
+    public double bolme(int a , int b){
+        return a/b;
+    }
 }
